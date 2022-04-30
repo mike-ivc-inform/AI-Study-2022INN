@@ -1,0 +1,3 @@
+### cannot import name 'BatchNormalization' from 'keras.layers.normalization' ...
+
+потому что тут путь нерпавильный - from keras.layers.normalization import BatchNormalization

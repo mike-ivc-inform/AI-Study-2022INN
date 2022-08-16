@@ -2,6 +2,11 @@
 
 потому что тут путь нерпавильный - from keras.layers.normalization import BatchNormalization
 
+### data
+
+### eng
+
+https://www.kaggle.com/code/namanoberoi/part-1-marketing-analytics-eda-visualizations
 
 источники
 

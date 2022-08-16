@@ -10,6 +10,8 @@ https://www.kaggle.com/code/namanoberoi/part-1-marketing-analytics-eda-visualiza
 
 https://www.kaggle.com/code/ingairle/marketing-analytics-task
 
+https://www.kaggle.com/datasets/jackdaoud/marketing-data/discussion/208329 - образование разделить на бакалавриат вместо 2й цикл
+
 источники
 
 https://www.sciencedirect.com/science/article/pii/S0306457321002788

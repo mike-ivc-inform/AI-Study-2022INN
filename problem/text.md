@@ -4,9 +4,11 @@
 
 ### data
 
-### eng
+### engeenering
 
 https://www.kaggle.com/code/namanoberoi/part-1-marketing-analytics-eda-visualizations
+
+https://www.kaggle.com/code/ingairle/marketing-analytics-task
 
 источники
 
